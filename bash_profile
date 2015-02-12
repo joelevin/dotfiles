@@ -2,6 +2,10 @@
 # Aliases
 #########################
 alias gitx="open -a gitx"
+
+#########################
+# PS1 Configuration
+#########################
 #  Customize BASH PS1 prompt to show current GIT repository and branch.
 #  by Mike Stewart - http://MediaDoneRight.com
 
