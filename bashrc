@@ -1,5 +1,5 @@
 alias gitx='open -a "GitX"'
-alias gcm='killall Xcode && git checkout master && git pull upstream master && rake build:all && open Spotify+features.xcworkspace/'
+alias gcm='killall Xcode ; git checkout master && git pull upstream master && rake build:all && xed . && git checkout -'
 
 export JAVA_HOME=$(/usr/libexec/java_home)
 
