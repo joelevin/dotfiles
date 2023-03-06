@@ -8,7 +8,7 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="bashrc bash_profile clang-format slate"    # list of files/folders to symlink in homedir
+files="zshrc"    # list of files/folders to symlink in homedir
 
 ##########
 
